@@ -22,15 +22,14 @@
                 <p>breve descripción breve descripción breve descripción breve descripción</p>
 
                 <div>
-                    <button class="btn-primary" onclick="mostrarFormulario()">Iniciar sesión</button>
-                    <button class="btn-secondary">Registrarse</button>
+                    <button type="button" class="btn-primary" onclick="mostrarFormulario()">Iniciar sesión</button>
+                    <button type="button" class="btn-secondary" onclick="formularioRegistro()">Registrarse</button>
                     
                 </div>
             </div>
         </div>
     </section>
-
-    <script src="../js/mLogin.js"></script>
-
+    <script src="./js/mLogin.js"></script>
+    
 </body>
 </html>
