@@ -30,7 +30,7 @@
         </div>
     </section>
 
-    <script scr="../js/mLogin.js"></script>
+    <script src="../js/mLogin.js"></script>
 
 </body>
 </html>
