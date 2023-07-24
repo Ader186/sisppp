@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script scr="../js/mLogin.js"></script>
     <link rel="stylesheet" href="./Styles.css">
     <title>Practicas Pre Profesionales</title>
 </head>
@@ -23,14 +22,15 @@
                 <p>breve descripción breve descripción breve descripción breve descripción</p>
 
                 <div>
-                    <button class="btn-secondary" onclick="mostrarFormulario()">Iniciar sesión</button>
+                    <button class="btn-primary" onclick="mostrarFormulario()">Iniciar sesión</button>
                     <button class="btn-secondary">Registrarse</button>
                     
                 </div>
             </div>
-
-
         </div>
     </section>
+
+    <script scr="../js/mLogin.js"></script>
+
 </body>
 </html>
